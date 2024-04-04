@@ -99,5 +99,4 @@ let participante = [
          </button>
       `
  }
- //https://day.js.org/docs/en/i18n/loading-into-browser
 ```
